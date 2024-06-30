@@ -1,7 +1,6 @@
 ![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">I passionate Ethical Hacker from Bangladesh 🇧🇩</h3>
-<img align="right" alt="Hacking" width="130" src="./icon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3dw4n48m3d&label=Profile%20views&color=0e75b6&style=flat" alt="r3dw4n48m3d" /> </p>
 
