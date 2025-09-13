@@ -1,4 +1,4 @@
-<div align="center" style="padding-top:50px">
+<div align="center" style="padding-top:100px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F71D&width=820&lines=Living+Between+Exploits+And+Escape+Codes+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%96%A4;Silent+In+Life%2C+Loud+In+The+System+%F0%9F%94%87%F0%9F%92%A5)](https://git.io/typing-svg)
 
@@ -43,7 +43,7 @@ I'm **[Redwan Ahmed](https://www.linkedin.com/in/r3dw4n-48m3d)** a Hacker & Secu
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-<a href="https://github.com/MuhammadWaseem29">
+<a href="https://github.com/r3dw4n48m3d">
 <img src="https://github-readme-stats.vercel.app/api?username=r3dw4n48m3d&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3dw4n48m3d&theme=radical" alt="GitHub Streak" height="170"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3dw4n48m3d&layout=compact&theme=radical" alt="Top Languages" height="170"/>
