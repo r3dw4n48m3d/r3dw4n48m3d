@@ -48,9 +48,9 @@ I'm **[Redwan Ahmed](https://www.linkedin.com/in/r3dw4n-48m3d)** a Hacker & Secu
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r3dw4n48m3d&layout=compact&theme=radical&hide_border=true&height=15)
 
-[![Redwan Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r3dw4n48m3d&theme=react-dark)](https://github.com/r3dw4n48m3d)
-
 </div>
+
+[![Redwan Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r3dw4n48m3d&theme=react-dark)](https://github.com/r3dw4n48m3d)
 
 ---
 
