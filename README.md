@@ -19,7 +19,6 @@ I'm **[Redwan Ahmed](https://www.linkedin.com/in/r3dw4n-48m3d)** a Hacker & Secu
 - **Name**: Redwan Ahmed
 - **From**: 127.0.0.1 🇧🇩
 - **Uncertified Hacker** | **Bug Hunter** | **Security Researcher** | **Full Stake Web Developer** | **Red Teaming** | **CTF Player** 
-<!-- - Experienced in cracking, reverse engineering, bug hunting, forensics, social engineering, and spy actions. -->
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **Everything**
 - Reach me at **r3dw4n@wearehackerone.com**
