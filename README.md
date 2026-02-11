@@ -1,7 +1,7 @@
-<div align="center" style="padding-top:90px">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F71D&width=820&lines=Living+Between+Exploits+And+Escape+Codes+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%96%A4;Silent+In+Life%2C+Loud+In+The+System+%F0%9F%94%87%F0%9F%92%A5)](https://git.io/typing-svg)
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sorry+For+Existing;A+Computer+Bug)](https://git.io/typing-svg)
+  
 </div>
 
 
@@ -17,7 +17,7 @@ I'm **[Redwan Ahmed](https://www.linkedin.com/in/r3dw4n-48m3d)** a Hacker & Secu
   <summary>More about me</summary>
 
 - **Name**: Redwan Ahmed
-- **From**: Bangladesh 🇧🇩
+- **From**: 127.0.0.1 🇧🇩
 - **Uncertified Hacker** | **Bug Hunter** | **Security Researcher** | **Full Stake Web Developer** | **Red Teaming** | **CTF Player** 
 <!-- - Experienced in cracking, reverse engineering, bug hunting, forensics, social engineering, and spy actions. -->
 - Improving knowledge in **Website Vulnerabilities**
@@ -42,25 +42,31 @@ I'm **[Redwan Ahmed](https://www.linkedin.com/in/r3dw4n-48m3d)** a Hacker & Secu
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-<a href="https://github.com/r3dw4n48m3d">
-<img src="https://github-readme-stats.vercel.app/api?username=r3dw4n48m3d&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3dw4n48m3d&theme=radical" alt="GitHub Streak" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3dw4n48m3d&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-  </a>
-</p>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=r3dw4n48m3d&show_icons=true&theme=radical&hide_border=true&height=1500)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=r3dw4n48m3d&theme=radical&hide_border=true&height=15)
+
+
+</div>
 
 [![Redwan Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r3dw4n48m3d&theme=react-dark)](https://github.com/r3dw4n48m3d)
+
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r3dw4n48m3d&layout=compact&theme=radical&hide_border=true&height=15)
+
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
-- [YouTube](https://www.youtube.com/@R3DW4NA8M3D)
+- [YouTube](https://www.youtube.com/@0xr3dw4n)
 - [Email](mailto:r3dw4n@wearehackerone.com)
 - [GitHub](https://github.com/r3dw4n48m3d)
-- [Instagram](https://instagram.com/0xr3dw4n)
-- [Facebook](https://facebook.com/0xr3dw4n)
 
 <p align="center">
 <a href="https://github.com/r3dw4n48m3d?tab=followers">
