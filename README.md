@@ -43,8 +43,9 @@ _I'm a first year undergraduate from [Rajshahi College](https://rc.gov.bd/). A C
 ---
 
 <br>
-
+<!--
 [![Redwan Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r3dw4n48m3d&theme=react-dark)](https://github.com/r3dw4n48m3d)
+--!>
 
 ## 🌐 Connect with Me
 
