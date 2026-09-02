@@ -60,12 +60,3 @@ _I'm a first year undergraduate from [Rajshahi College](https://rc.gov.bd/). A C
 
 
 
-TEST
-TEST
-TESTS
-TEST
-TEST
-TESTS
-TEST
-TEST
-TESTS
